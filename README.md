@@ -15,6 +15,7 @@ Future features:
 - Different types of workouts
 - Friend other users
 - View and interact with other users workouts
+- Visualizations of workout data
 
 ## Purpose
 The main purpose of me building this app is for me to learn the MERN (MongoDB, Express, React, Node.js) stack of web development. Also, it will be some motivation to get me to go the gym more lol.
