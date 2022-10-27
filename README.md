@@ -20,4 +20,4 @@ Future features:
 ## Purpose
 The main purpose of me building this app is for me to learn the MERN (MongoDB, Express, React, Node.js) stack of web development. Also, it will be some motivation to get me to go the gym more lol.
 ## Status
-I am currently working on the initial features. I am using this [great tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) by The Net Ninja on youtube as a guide.
+I am currently working on the authentication.
