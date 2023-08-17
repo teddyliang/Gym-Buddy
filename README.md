@@ -9,9 +9,9 @@ Initial features:
 - Getting all workouts
 - Editing a workout
 - Deleting a workout
-- Authentication (Login/Logout)
 
 Future features:
+- Authentication (Login/Logout)
 - Different types of workouts
 - Friend other users
 - View and interact with other users workouts
